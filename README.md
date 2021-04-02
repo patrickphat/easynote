@@ -1,2 +1,2 @@
-# nid
-Note It Down
+# nie
+Note It Easy
